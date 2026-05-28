@@ -1,4 +1,4 @@
-z; // src/components/Card.tsx
+// src/components/Card.tsx
 import { View, Text, StyleSheet } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useTheme } from "../context/ThemeContext";
